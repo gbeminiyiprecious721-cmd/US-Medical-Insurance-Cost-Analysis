@@ -1,4 +1,3 @@
-# PreciousGbeminiyi
 # US Medical Insurance Cost Project
 
 ## 📌 Project Overview
